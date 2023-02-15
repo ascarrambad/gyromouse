@@ -1,4 +1,4 @@
-# GyroMouse – Remote Wireless Mouse for iOS
+# <img src="./ico.png"  width="40px" height="40px" style="border-radius: 25%;"> GyroMouse – Remote Wireless Mouse for iOS
 
 ***Old unmantained Swift 3.x app***
 
@@ -12,7 +12,7 @@ Hi there! Are you one of those who have their computer plugged into their TVs? A
 
 Worry no more! With GyroMouse you can:
 
-* Move your move just by moving your iPhone up and down, left or right! The pointer onscreen will follow your hand! How cool is that?
+* Move your mouse just by moving your iPhone up and down, left or right! The pointer onscreen will follow your hand! How cool is that?
 * Free hoverboard included (*)
 * Are you on a website and need to scroll the page? Just tilt the iPhone left or right to scroll the page! Just like magic!
 * Type on the keyboard from your iPhone and see directly on the iPhone what you're writing! You don't have to force your sight to see it on the TV!
