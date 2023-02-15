@@ -1,0 +1,21 @@
+/* 
+  Localized.strings
+  GyroMouse
+
+  Created by Matteo Riva on 11/09/15.
+  Copyright © 2015 Matteo Riva. All rights reserved.
+*/
+
+
+"version" = "Versione";
+"error" = "Errore";
+"connect_error" = "Impossibile connettersi al server selezionato";
+"choose_action" = "Scegli un azione";
+"shutdown" = "Spegni";
+"reboot" = "Riavvia";
+"cancel" = "Annulla";
+"standby" = "Stop";
+"tut1" = "Muovi l'iPhone per spostare il puntatore del mouse sullo schermo!";
+"tut2" = "Ruota il tuo iPhone per scorrere le pagine! È semplicissimo!";
+"tut3" = "Scuoti l'iPhone per ricalibrare la posizione del puntatore del mouse!";
+"info_message" = "Scarica l'app accessoria per Mac all'indirizzo http://gyromouse.altervista.org";

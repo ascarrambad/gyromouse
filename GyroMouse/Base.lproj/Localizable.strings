@@ -1,0 +1,20 @@
+/*
+  Localized.strings
+  GyroMouse
+
+  Created by Matteo Riva on 11/09/15.
+  Copyright © 2015 Matteo Riva. All rights reserved.
+*/
+
+"version" = "Version";
+"error" = "Error";
+"connect_error" = "Unable to connect to the specified server";
+"choose_action" = "Pick an action";
+"shutdown" = "Shutdown";
+"reboot" = "Reboot";
+"cancel" = "Cancel";
+"standby" = "Sleep";
+"tut1" = "Move your iPhone to move the pointer onscreen!";
+"tut2" = "Tilt the iPhone left or right to scroll! Easy peasy!";
+"tut3" = "Shake that iPhone to recalibrate the pointer position on the screen!";
+"info_message" = "Download the Mac companion app at http://gyromouse.altervista.org";

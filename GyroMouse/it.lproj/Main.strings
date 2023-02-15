@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "Scuoti per ricalibrare"; ObjectID = "2fC-hB-EQK"; */
+"2fC-hB-EQK.text" = "Scuoti per ricalibrare";
+
+/* Class = "UILabel"; text = "w:"; ObjectID = "2qk-Uk-yNb"; */
+"2qk-Uk-yNb.text" = "w:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Yo-aG-CSC"; */
+"3Yo-aG-CSC.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Impostazioni"; ObjectID = "4Q0-q7-dqo"; */
+"4Q0-q7-dqo.title" = "Impostazioni";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7hR-hu-wjQ"; */
+"7hR-hu-wjQ.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Tutorial"; ObjectID = "80z-SC-J6h"; */
+"80z-SC-J6h.title" = "Tutorial";
+
+/* Class = "UINavigationItem"; title = "Mouse"; ObjectID = "A6Y-83-eGt"; */
+"A6Y-83-eGt.title" = "Mouse";
+
+/* Class = "UILabel"; text = "yaw:"; ObjectID = "AoV-7r-HNL"; */
+"AoV-7r-HNL.text" = "yaw:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B9c-I3-OY2"; */
+"B9c-I3-OY2.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Dettagli"; ObjectID = "Bh5-1n-0SP"; */
+"Bh5-1n-0SP.title" = "Dettagli";
+
+/* Class = "UILabel"; text = "Attitude"; ObjectID = "CX6-Mg-WfV"; */
+"CX6-Mg-WfV.text" = "Attitude";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D2V-iY-beU"; */
+"D2V-iY-beU.text" = "Label";
+
+/* Class = "UILabel"; text = "Gravity"; ObjectID = "Dh2-74-WBY"; */
+"Dh2-74-WBY.text" = "Gravity";
+
+/* Class = "UILabel"; text = "x:"; ObjectID = "GHL-MO-Z8c"; */
+"GHL-MO-Z8c.text" = "x:";
+
+/* Class = "UINavigationItem"; title = "Tutorial"; ObjectID = "HUW-oO-PKi"; */
+"HUW-oO-PKi.title" = "Tutorial";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Iid-nU-9JK"; */
+"Iid-nU-9JK.text" = "Label";
+
+/* Class = "UILabel"; text = "pitch:"; ObjectID = "K8m-SZ-bS0"; */
+"K8m-SZ-bS0.text" = "pitch:";
+
+/* Class = "UILabel"; text = "x:"; ObjectID = "Ncw-bZ-Cl5"; */
+"Ncw-bZ-Cl5.text" = "x:";
+
+/* Class = "UINavigationItem"; title = "Server Disponibili"; ObjectID = "UHa-ib-ikk"; */
+"UHa-ib-ikk.title" = "Server Disponibili";
+
+/* Class = "UILabel"; text = "z:"; ObjectID = "Z6f-bz-EGg"; */
+"Z6f-bz-EGg.text" = "z:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZJy-B6-hmM"; */
+"ZJy-B6-hmM.text" = "Label";
+
+/* Class = "UILabel"; text = "Velocità di scorrimento"; ObjectID = "ckx-s8-5ge"; */
+"ckx-s8-5ge.text" = "Velocità di scorrimento";
+
+/* Class = "UILabel"; text = "z:"; ObjectID = "djI-1E-Ewz"; */
+"djI-1E-Ewz.text" = "z:";
+
+/* Class = "UILabel"; text = "Velocità di movimento"; ObjectID = "e3F-Nk-8Tj"; */
+"e3F-Nk-8Tj.text" = "Velocità di movimento";
+
+/* Class = "UILabel"; text = "y:"; ObjectID = "ePf-DE-SGN"; */
+"ePf-DE-SGN.text" = "y:";
+
+/* Class = "UILabel"; text = "roll:"; ObjectID = "iBR-su-Rjh"; */
+"iBR-su-Rjh.text" = "roll:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jSJ-E7-9Kx"; */
+"jSJ-E7-9Kx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nE3-ZC-HD8"; */
+"nE3-ZC-HD8.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nY2-qo-uy5"; */
+"nY2-qo-uy5.text" = "Label";
+
+/* Class = "UILabel"; text = "Quaternions"; ObjectID = "oDz-iJ-d1d"; */
+"oDz-iJ-d1d.text" = "Quaternions";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "p6c-3P-hrk"; */
+"p6c-3P-hrk.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r8s-5o-Mxy"; */
+"r8s-5o-Mxy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rjV-AD-vRi"; */
+"rjV-AD-vRi.text" = "Label";
+
+/* Class = "UILabel"; text = "y:"; ObjectID = "tyc-WR-4bV"; */
+"tyc-WR-4bV.text" = "y:";
+
+/* Class = "UIButton"; normalTitle = "Ok ho capito"; ObjectID = "xhX-62-kya"; */
+"xhX-62-kya.normalTitle" = "Ok ho capito";
+
+/* Class = "UILabel"; text = "Mantieni lo schermo attivo"; ObjectID = "y0y-Vj-qBw"; */
+"y0y-Vj-qBw.text" = "Mantieni lo schermo attivo";
